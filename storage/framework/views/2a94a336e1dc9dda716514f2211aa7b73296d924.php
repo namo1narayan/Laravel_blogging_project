@@ -1,0 +1,1 @@
+<div id="copyright text-right">© Copyright 2022 Namo Narayan </div><?php /**PATH C:\xampp\htdocs\NAMO_NARAYAN_11903026\resources\views/includes/footer.blade.php ENDPATH**/ ?>
